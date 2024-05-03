@@ -4,7 +4,7 @@ version = "0.0.1"
 upgrade_policy = "compatible"
 [dependencies.AptosFramework]
 git = 'https://github.com/aptos-labs/aptos-core.git'
-rev = 'main'
+rev = 'testnet'
 subdir = 'aptos-move/framework/aptos-framework'
 
 [dependencies]
